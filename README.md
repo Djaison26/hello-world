@@ -9,6 +9,6 @@ python hello.py
 python hello.py --name Alice
 ```
 
-## Requirments
+## Requirements
 
 - Python 3.8+
